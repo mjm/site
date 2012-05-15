@@ -12,7 +12,7 @@ A [Das Keyboard][das] is one of those things I always wanted, but wouldn't actua
 
 I finally decided that as a software developer, my keyboard is an important enough tool that it is worth putting money into getting a good one. So I ordered the [Das Keyboard Model S Professional for Mac][dasmac] at its pre-order price of $113. Currently it sells for $133.
 
-{% img /images/posts/daskeyboard.jpg 'Das Keyboard' 'My Das Keyboard in all its glory' %}
+{% img http://mattmoriarity.com/images/posts/daskeyboard.jpg 'Das Keyboard' 'My Das Keyboard in all its glory' %}
 
 I could not be happier with it. This is the highest quality keyboard I have ever used. The keys produce just enough resistance to make you certain that you have pressed a key, yet not so much that it makes the keys harder to press. Typing with it is actually *satisfying.* I almost feel more productive just because this keyboard makes me want to type more, though I imagine that feeling will fade with time.
 
