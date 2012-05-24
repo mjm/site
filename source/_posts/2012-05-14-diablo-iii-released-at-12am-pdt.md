@@ -16,4 +16,6 @@ I have no idea why. I can't explain why Diablo is so fun, because on the surface
 
 Against my better judgment, I'm staying up until 3am to play when the game is released. Despite having class at 12pm. I'm pretty sure this is a bad idea, but I'm also pretty sure I'm not changing my mind.
 
+**Update**: Well, looks like I'm *definitely* not the only one who did this, since the Blizzard servers got destroyed by the demand for instant Diablo III upon launch. I gave up around 3:30am, and I'll try to play again in the actual morning."
+
 [d3]: http://us.battle.net/d3/en/?-
