@@ -10,6 +10,8 @@ I've been wanting a new backpack for a little while now. I've been in college fo
 
 [sa]: http://www.tombihn.com/page/001/PROD/300/TB0103
 
+<!--more-->
+
 I won't write an elaborate review of the Smart Alec because [Ben Brooks][bb] has already written a fantastic and elaborate [review][] for it already. I will comment on two little things about it that make me very happy.
 
 [bb]: http://brooksreview.net
