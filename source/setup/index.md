@@ -59,3 +59,6 @@ For automating repetitive tasks, I use both [Keyboard Maestro][km] and [TextExpa
 [km]: http://www.keyboardmaestro.com/main/
 [te]: http://smilesoftware.com/TextExpander/
 [hazel]: http://www.noodlesoft.com/hazel
+
+### Development
+
