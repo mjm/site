@@ -7,7 +7,7 @@ require "stringex"
 ssh_user       = "matt@minode.mattmoriarity.com"
 ssh_port       = "22"
 document_root  = "~/mattmoriarity.com/"
-rsync_delete   = true
+rsync_delete   = false
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
