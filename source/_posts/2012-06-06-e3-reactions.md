@@ -16,6 +16,8 @@ It's the second day of E3, and I've had a chance to see some of the things that 
 
 I haven't bought into the Assassin's Creed series. I played a bit of Assassin's Creed 2, but not much, and it didn't manage to pull me in. Watching the footage for Assassin's Creed 3, though, has me thinking that Ubisoft is going to be getting my money. The Revolutionary War setting is compelling, and is a nice departure from the previous settings. The combat looks incredibly fun and exciting. And don't even get me started on the [naval combat][naval]. Be sure to also watch the excellent [trailer][ac3trail].
 
+__Update__: I actually did finally go back and play through Assassin's Creed 2 after watching a friend playing the original. It was *incredible*. It seems I had stopped right before it hooks you in, as it wasn't long before I found myself unable to put the game down. So now I'm even more excited for Assassin's Creed 3.
+
 [naval]: http://www.youtube.com/watch?v=imPxEsAsgXk
 [ac3trail]: http://www.youtube.com/watch?v=VXUGIjP0bZA
 
